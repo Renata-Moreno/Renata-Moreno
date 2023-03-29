@@ -1,6 +1,6 @@
 ## Olá! Eu sou Renata Moreno
 
-- 🔭 Iniciante em front-end
+- 🔭 Desenvolvedora front-end
 - 🌱 Eu estou aprendendo javascript
 - 🤔 Eu estou procurando uma vaga de estágio
 - 😄 Pronouns: ela/dela
